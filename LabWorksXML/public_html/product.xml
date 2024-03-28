@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Product SYSTEM "product.dtd">
+<Product ProductID="101">
+    <ProductName>Adidas Brazuca</ProductName>
+    <ProductPrice>10000</ProductPrice> 
+    <ProductInfo><b>Brazuca</b> is the football produced and distributed by Adidas</ProductInfo>
+</Product>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Product (ProductName, ProductPrice, ProductInfo)>
+<!ELEMENT ProductName (#PCDATA)>
+<!ELEMENT ProductPrice (#PCDATA)>
+<!ELEMENT ProductInfo (#PCDATA|b|)*>
+<!ATTLIST Product ProductID CDATA #REQUIRED>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:books xmlns:x="urn:books">
+<book id="b1">
+    <author>Kiran Khanal</author>
+    <title>The Living Ghost</title>
+    <genre>Horror</genre>
+    <price>999</price>
+    <pub_date>2022/12/18</pub_date>
+    <review>Excellent</review>
+</book>
+<book id="b2">
+    <author>Kiran Khanal</author>
+    <title>The Victory</title>
+    <genre>Sports</genre>
+    <review>MindBlowing</review>
+</book>
+</x:books>
+
+
